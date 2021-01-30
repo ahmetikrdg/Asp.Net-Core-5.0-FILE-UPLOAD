@@ -1,0 +1,10 @@
+vakıfbank 
+ödemeler kısmına girin sgk ödemelerine gir en latta
+tekrardan sekmelerden sgk ödemesi
+ödeme türü
+borç sorgulama
+ödeme tipi arama yeri 
+u yapılanırma kanunu 7256 iş verene tıkla
+7256 yspılandırma işveren sonra referans no
+referans noya ödeme planındaki 26 haneli rakamı yaz
+sorgula dediğinizde borç ekranına yansıyacak.
